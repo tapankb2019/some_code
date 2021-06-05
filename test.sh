@@ -4,4 +4,3 @@ sum=$(($var1 + $var2))
 
 echo $sum
 
-echo " This is second modified completed"
